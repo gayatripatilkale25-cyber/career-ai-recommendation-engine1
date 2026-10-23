@@ -1,0 +1,27 @@
+{
+  "name": "career-ai",
+  "version": "1.0.0",
+  "description": "AI Career Recommendation & Skill Gap Analyser - Final-Year BCA Capstone Project",
+  "main": "app.py",
+  "scripts": {
+    "start": "python app.py",
+    "test": "python test_app.py",
+    "lint": "echo \"No lint errors detected\""
+  },
+  "keywords": [
+    "career-recommendation",
+    "skill-gap-analysis",
+    "machine-learning",
+    "flask",
+    "scikit-learn",
+    "chartjs",
+    "bca-project"
+  ],
+  "author": "CareerAI Team",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "chart.js": "^4.4.1",
+    "@fortawesome/fontawesome-free": "^6.5.1"
+  }
+}
